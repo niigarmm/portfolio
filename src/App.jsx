@@ -1,0 +1,12 @@
+import { useState } from "react";
+import MainPage from "./layout/MainPage";
+
+function App() {
+  return (
+    <>
+      <MainPage />
+    </>
+  );
+}
+
+export default App;
